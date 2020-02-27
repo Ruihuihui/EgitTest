@@ -6,5 +6,6 @@ public class Love {
 		System.out.println("i love meet you ");		
 		System.out.println("where meet you tonight ");
 		
+		System.out.println("我是尚硅谷最帅 ");
 	}
 }
